@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "6096a426acb98745348a7df6"
+  },
+  "art_id": 1,
+  "art_nom": "Led Zeppelin",
+  "art_typ": "G",
+  "art_pays": "ANG",
+  "art_genre": "HME",
+  "pay_libelle": "Angleterre",
+  "gen_libelle": "Heavy Metal"
+},{
+  "_id": {
+    "$oid": "6096a426acb98745348a7df7"
+  },
+  "art_id": 2,
+  "art_nom": "Iron Maiden",
+  "art_typ": "G",
+  "art_pays": "ANG",
+  "art_genre": "HME",
+  "pay_libelle": "Angleterre",
+  "gen_libelle": "Heavy Metal"
+},{
+  "_id": {
+    "$oid": "6096a426acb98745348a7df8"
+  },
+  "art_id": 3,
+  "art_nom": "Adele",
+  "art_typ": "S",
+  "art_pays": "ANG",
+  "art_genre": "POP",
+  "pay_libelle": "Angleterre",
+  "gen_libelle": "Pop Music"
+},{
+  "_id": {
+    "$oid": "6096a426acb98745348a7df9"
+  },
+  "art_id": 4,
+  "art_nom": "Muse",
+  "art_typ": "G",
+  "art_pays": "ANG",
+  "art_genre": "ROC",
+  "pay_libelle": "Angleterre",
+  "gen_libelle": "Rock"
+},{
+  "_id": {
+    "$oid": "6096a426acb98745348a7dfa"
+  },
+  "art_id": 5,
+  "art_nom": "Telephone",
+  "art_typ": "G",
+  "art_pays": "FRA",
+  "art_genre": "ROC",
+  "pay_libelle": "France",
+  "gen_libelle": "Rock"
+},{
+  "_id": {
+    "$oid": "6096a426acb98745348a7dfb"
+  },
+  "art_id": 6,
+  "art_nom": "Coldplay",
+  "art_typ": "G",
+  "art_pays": "ANG",
+  "art_genre": "POP",
+  "pay_libelle": "Angleterre",
+  "gen_libelle": "Pop Music"
+},{
+  "_id": {
+    "$oid": "6096a426acb98745348a7dfc"
+  },
+  "art_id": 7,
+  "art_nom": "Simple Plan",
+  "art_typ": "G",
+  "art_pays": "CAN",
+  "art_genre": "ROC",
+  "pay_libelle": "Canada",
+  "gen_libelle": "Rock"
+},{
+  "_id": {
+    "$oid": "6096a426acb98745348a7dfd"
+  },
+  "art_id": 8,
+  "art_nom": "Davis, Miles",
+  "art_typ": "S",
+  "art_pays": "USA",
+  "art_genre": "JAZ",
+  "pay_libelle": "Etats Unis",
+  "gen_libelle": "Jazz"
+},{
+  "_id": {
+    "$oid": "6096a426acb98745348a7dfe"
+  },
+  "art_id": 9,
+  "art_nom": "Mc Laughlin, John",
+  "art_typ": "S",
+  "art_pays": "ANG",
+  "art_genre": "JAZ",
+  "pay_libelle": "Angleterre",
+  "gen_libelle": "Jazz"
+},{
+  "_id": {
+    "$oid": "6096a426acb98745348a7dff"
+  },
+  "art_id": 10,
+  "art_nom": "Rolling Stones",
+  "art_typ": "G",
+  "art_pays": "ANG",
+  "art_genre": "ROC",
+  "pay_libelle": "Angleterre",
+  "gen_libelle": "Rock"
+}]
