@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # config bdd
-config/defaut.json
+config/default.json
